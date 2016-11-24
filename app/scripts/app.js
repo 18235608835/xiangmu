@@ -9,6 +9,6 @@
  * Main module of the application.
  */
 angular
-  .module('1512App', [])
+  .module('1512App', ['fbb'])
 
 
